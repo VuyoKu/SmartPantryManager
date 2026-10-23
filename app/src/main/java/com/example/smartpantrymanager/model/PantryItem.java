@@ -1,11 +1,12 @@
 package com.example.smartpantrymanager.model;
 
-public class PantryItem {
+public class PantryItem implements java.io.Serializable{
     private int id;
     private String name;
     private double quantity;
     private String unit;
     private String expiryDate;
+    private static final long serialVersionUID = 1L;
 
     public PantryItem() { }
 
