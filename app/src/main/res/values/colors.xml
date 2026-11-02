@@ -2,4 +2,15 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="bg_root">#F2F2F7</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="text_primary">#1D1D1F</color>
+    <color name="text_secondary">#86868B</color>
+    <color name="separator">#E5E5EA</color>
+    <color name="primary">#0071E3</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="destructive">#FF3B30</color>
+
+    <color name="warning">#FF9500</color>
 </resources>
